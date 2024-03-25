@@ -35,6 +35,8 @@ import random
 
 game_images = [rock, paper, scissors]
 
+# let the user choose by asking in text on the screen
+
 user_choice = int(input("What do you choose? Type 0 for Rock, 1 for Paper or 2 for Scissors. \n Answer: "))
 
 # set rules for human. 
